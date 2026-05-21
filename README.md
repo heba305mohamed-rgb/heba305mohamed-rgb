@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Heba Mohamed  
+# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Heba Mohamed</h1>
 
 🎯 **Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence**  
 📍 Cairo, Egypt  
