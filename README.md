@@ -79,8 +79,11 @@ Led operations, trained over **80+ employees**, and maintained performance repor
 ## 🌐 Let's Connect
 
 📍 Cairo, Egypt  
-- 📧 **Email:** [heba.mohamed305@yahoo.com](mailto:heba.mohamed305@yahoo.com)  
 
+<a href="mailto:heba305mohamed@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+       alt="Gmail" 
+       width="30">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/heba-mohamed-business-intelligence/)](https://www.linkedin.com/in/heba-mohamed-business-intelligence/)
 ---
