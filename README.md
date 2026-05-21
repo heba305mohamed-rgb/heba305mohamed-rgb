@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-I’m a **Data & Sales Analyst** with over **10 years of experience** in operations management, sales reporting, and business intelligence.  
+
 I specialize in transforming raw data into actionable insights that drive **efficiency**, **sales growth**, and **strategic decision-making**.
 
 My professional journey spans industries such as **cosmetics, digital marketing, retail, education**, and **data analytics** — giving me a strong foundation in data-driven business operations.
