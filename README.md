@@ -22,14 +22,21 @@ My professional journey spans industries such as **cosmetics, digital marketing,
 
 ---
 
-## 🧠 Core Competencies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- **Data Analytics & Visualization** (Excel, Power BI, Tableau, SQL, Python)  
-- **Sales & Operations Reporting**  
-- **Process Optimization & Workflow Efficiency**  
-- **Business Intelligence Dashboards**  
-- **Team Leadership & Training**  
-- **Digital Marketing & Content Management**
+<p align="center">
+
+
+
+<p align="left">
+  📊 Data Analysis &nbsp; | &nbsp;
+  🧹 Data Cleaning &nbsp; | &nbsp;
+  📈 Data Visualization &nbsp; | &nbsp;
+  🐍 Python &nbsp; | &nbsp;
+  📉 Power BI &nbsp; | &nbsp;
+  🗄️ SQL &nbsp; | &nbsp;
+  📑 Excel &nbsp;
+  
 
 ---
 
@@ -67,23 +74,7 @@ Streamlined office management, documentation, HR compliance, and financial repor
 Led operations, trained over **80+ employees**, and maintained performance reporting and compliance standards.
 
 
----
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-
-
-<p align="left">
-  📊 Data Analysis &nbsp; | &nbsp;
-  🧹 Data Cleaning &nbsp; | &nbsp;
-  📈 Data Visualization &nbsp; | &nbsp;
-  🐍 Python &nbsp; | &nbsp;
-  📉 Power BI &nbsp; | &nbsp;
-  🗄️ SQL &nbsp; | &nbsp;
-  📑 Excel &nbsp;
-  
 
 
 ---
