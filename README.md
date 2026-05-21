@@ -2,8 +2,7 @@
 
 🎯 **Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence**  
 📍 Cairo, Egypt  
-📧 [heba.mohamed305@yahoo.com](mailto:heba.mohamed305@yahoo.com)  
-🔗 [LinkedIn: Heba Mohamed](https://www.linkedin.com/in/heba-mohamed-business-intelligence)
+
 
 ---
 
