@@ -10,8 +10,9 @@
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
+I am passionate about Data Analytics and driven by a strong curiosity to uncover insights and solve real-world problems through data. With hands-on experience in data analysis and artificial intelligence, I have worked on various projects involving data cleaning, visualization, and extracting meaningful insights to support decision-making.
 
-I specialize in transforming raw data into actionable insights that drive **efficiency**, **sales growth**, and **strategic decision-making**.
+
 
 My professional journey spans industries such as **cosmetics, digital marketing, retail, education**, and **data analytics** — giving me a strong foundation in data-driven business operations.
 
