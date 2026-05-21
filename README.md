@@ -74,13 +74,17 @@ Led operations, trained over **80+ employees**, and maintained performance repor
 <p align="center">
 
 
-| Category | Tools |
-|-----------|-------|
-| **Data Analytics** | Excel, Power BI, Tableau |
-| **Data Handling** | SQL, Power Query, Power Pivot |
-| **Programming** | Python |
-| **Reporting** | PowerPoint, Word |
-| **Soft Skills** | Analytical Thinking, Leadership, Communication |
+
+<p align="left">
+  📊 Data Analysis &nbsp; | &nbsp;
+  🧹 Data Cleaning &nbsp; | &nbsp;
+  📈 Data Visualization &nbsp; | &nbsp;
+  🐍 Python &nbsp; | &nbsp;
+  📉 Power BI &nbsp; | &nbsp;
+  🗄️ SQL &nbsp; | &nbsp;
+  📑 Excel &nbsp;
+  
+
 
 ---
 
