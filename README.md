@@ -82,7 +82,7 @@ Led operations, trained over **80+ employees**, and maintained performance repor
 
 ## 🌐 Let's Connect
 
-📍 Cairo, Egypt  
+
 
 <a href="mailto:heba305mohamed@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
