@@ -1,3 +1,7 @@
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+
+
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Heba Mohamed</h1>
 
 <h3 align="center"> 🎯 Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence</h3>
