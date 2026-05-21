@@ -80,8 +80,9 @@ Led operations, trained over **80+ employees**, and maintained performance repor
 
 📍 Cairo, Egypt  
 - 📧 **Email:** [heba.mohamed305@yahoo.com](mailto:heba.mohamed305@yahoo.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/heba-mohamed-business-intelligence](https://www.linkedin.com/in/heba-mohamed-business-intelligence)
 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/heba-mohamed-business-intelligence/)](https://www.linkedin.com/in/heba-mohamed-business-intelligence/)
 ---
 
 ⭐ *“Transforming data into insights that empower business growth and smarter decisions.”*
