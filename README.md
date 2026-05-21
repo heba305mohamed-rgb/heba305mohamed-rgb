@@ -1,12 +1,14 @@
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Heba Mohamed</h1>
 
-🎯 **Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence**  
-📍 Cairo, Egypt  
+<h3 align="center"> 🎯 Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence</h3>
 
 
----
 
-## 💡 About Me
+
+
+
+
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 I’m a **Data & Sales Analyst** with over **10 years of experience** in operations management, sales reporting, and business intelligence.  
 I specialize in transforming raw data into actionable insights that drive **efficiency**, **sales growth**, and **strategic decision-making**.
@@ -76,6 +78,7 @@ Led operations, trained over **80+ employees**, and maintained performance repor
 
 ## 🌐 Let's Connect
 
+📍 Cairo, Egypt  
 - 📧 **Email:** [heba.mohamed305@yahoo.com](mailto:heba.mohamed305@yahoo.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/heba-mohamed-business-intelligence](https://www.linkedin.com/in/heba-mohamed-business-intelligence)
 
